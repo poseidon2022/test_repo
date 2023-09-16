@@ -2,3 +2,6 @@ this inkcn,
 This is a simple text file.
 Kidus is the best
 
+
+This definitely is an apocalypse, ain't it?
+
