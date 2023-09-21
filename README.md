@@ -10,3 +10,5 @@
 #hello my name is kidus melaku
 #hola soy bien?
 #this text is added now
+
+#this is modified specifically for kidus-c1
